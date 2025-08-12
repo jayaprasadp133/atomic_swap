@@ -55,7 +55,8 @@ This project proposal is currently in **concept stage**. Implementation and lice
 
 ---
 
+
 ## 📧 Contact
 **Jaya Prasad P**  
-Email: jayaprasad133@gmail.com 
+Email: jayaprasad133@gmail.com  
 LinkedIn: https://www.linkedin.com/in/jayaprasadp/
