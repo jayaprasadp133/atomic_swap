@@ -56,7 +56,6 @@ This project proposal is currently in **concept stage**. Implementation and lice
 ---
 
 ## 📧 Contact
-**[Your Full Name]**  
-Email: [your.email@example.com]  
-Phone: [Your Contact Number]  
-LinkedIn: [Your LinkedIn Profile URL]  
+**Jaya Prasad P**  
+Email: jayaprasad133@gmail.com 
+LinkedIn: https://www.linkedin.com/in/jayaprasadp/
